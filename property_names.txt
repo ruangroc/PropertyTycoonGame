@@ -1,0 +1,65 @@
+HOUSE
+Charming Chateau
+Magnificent Mansion
+Mediocre Mansion
+4 Privet Drive
+Thornfield Hall
+Cute Cottage
+Captivating Castle
+Pleasant Penthouse
+Bewitching Bungalow
+Fine Farmhouse
+Haunted House
+The House From Up
+Castle on the Hill
+House in the Woods
+Gatsby's Mansion
+Terrific Townhouse
+Castle in the Sky
+Terrific Treehouse
+Hollow Hut
+The Burrow
+
+APARTMENT
+Awesomeness Apartments
+College Complex
+Twelve Oaks
+Pleasant Places
+Very Nice Villa
+Lovely Lodges
+Highrise Towers
+Seaside Studios
+Delightful Duplexes
+Lovely Lofts
+Top-notch Townhouses
+Stunning Studios
+Likeable Living-spaces
+Alright Apartments
+Relaxing Retreat
+Beachside Beds
+University Dwellings
+Acceptable Apartments
+Pleasant Plaza
+Very Nice Village
+
+BUSINESS
+Dunder Mifflin
+Tom's Bistro
+Rent-A-Swag
+Lucky Smells Lumbermill
+Bubble n Tea
+Buy n Large
+The Krusty Krab
+Dairy Queen
+Bluth Company
+Monsters, Incorporated
+Amazon
+Facebook
+Google
+Weasleys' Wizard Wheezes
+Psych
+Ghostbusters
+Coca-Cola
+Pepsi
+Salt & Straw
+Hershey's Chocolate
